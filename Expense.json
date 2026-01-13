@@ -121,24 +121,6 @@
       "recurringRuleId": "1768295814391-radme"
     },
     {
-      "id": "auto-1768295814391-radme-2026-01-13",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-13",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768295814391-radme"
-    },
-    {
-      "id": "1768295853230-2i39d",
-      "title": "Hall Due",
-      "amount": 2082,
-      "category": "Food",
-      "frequency": "One-time",
-      "date": "2026-01-13"
-    },
-    {
       "id": "1768296359130-h597t",
       "title": "food",
       "amount": 20000000000,
