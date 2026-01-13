@@ -1,5 +1,14 @@
 {
-  "expenses": [],
+  "expenses": [
+    {
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "frequency": "Monthly",
+      "date": "2026-01-13",
+      "id": "1768292373124"
+    }
+  ],
   "monthlyBudgets": {
     "2026-01": 6000
   },
