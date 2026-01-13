@@ -1,12 +1,12 @@
 {
   "expenses": [
     {
+      "id": "1768292373124",
       "title": "Breakfast",
       "amount": 30,
       "category": "Food",
-      "frequency": "Monthly",
-      "date": "2026-01-13",
-      "id": "1768292373124"
+      "frequency": "Daily",
+      "date": "2026-01-13"
     }
   ],
   "monthlyBudgets": {
