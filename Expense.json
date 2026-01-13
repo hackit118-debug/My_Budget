@@ -129,6 +129,14 @@
       "frequency": "Daily",
       "isGenerated": true,
       "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "1768305709136-es63v",
+      "title": "Hall Due",
+      "amount": 2080,
+      "category": "Food",
+      "frequency": "One-time",
+      "date": "2026-01-13"
     }
   ]
 }
