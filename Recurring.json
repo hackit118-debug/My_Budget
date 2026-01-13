@@ -8,7 +8,7 @@
       "startDate": "2026-01-01",
       "endDate": "2026-01-31",
       "time": "08:00",
-      "isActive": false,
+      "isActive": true,
       "skippedDates": [
         "2026-01-14"
       ],
