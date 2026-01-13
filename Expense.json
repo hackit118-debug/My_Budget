@@ -1,14 +1,3 @@
 {
-  "expenses": [
-    {
-      "id": "auto-1768295814391-radme-2026-01-01",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-01",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768295814391-radme"
-    }
-  ]
+  "expenses": []
 }
