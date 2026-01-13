@@ -1,6 +1,8 @@
 {
   "expenses": [],
-  "monthlyBudgets": {},
+  "monthlyBudgets": {
+    "2026-01": 6000
+  },
   "profile": {
     "name": "Sawon Mukherjee",
     "email": "",
