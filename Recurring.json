@@ -1,0 +1,16 @@
+{
+  "recurring": [
+    {
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "frequency": "Daily",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-31",
+      "time": "08:00",
+      "isActive": true,
+      "skippedDates": [],
+      "id": "1768295814391-radme"
+    }
+  ]
+}
