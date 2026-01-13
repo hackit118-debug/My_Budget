@@ -1,9 +1,12 @@
 {
-  "expenses": [],
-  "monthlyBudgets": {},
-  "profile": {
-    "name": "Sawon",
-    "email": "",
-    "avatarUrl": ""
-  }
+  "expenses": [
+    {
+      "id": "1768294827523-8kepi",
+      "title": "eat",
+      "amount": 30,
+      "category": "Food",
+      "frequency": "One-time",
+      "date": "2026-01-13"
+    }
+  ]
 }
