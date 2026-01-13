@@ -145,6 +145,14 @@
       "category": "Food",
       "frequency": "One-time",
       "date": "2026-01-13"
+    },
+    {
+      "id": "1768296359130-h597t",
+      "title": "food",
+      "amount": 20000000000,
+      "category": "Food",
+      "frequency": "One-time",
+      "date": "2026-01-13"
     }
   ]
 }
