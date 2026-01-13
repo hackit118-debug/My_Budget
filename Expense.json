@@ -49,26 +49,6 @@
       "frequency": "Daily",
       "isGenerated": true,
       "recurringRuleId": "1768295814391-radme"
-    },
-    {
-      "id": "auto-1768295814391-radme-2026-01-06",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-06",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768295814391-radme"
-    },
-    {
-      "id": "auto-1768295814391-radme-2026-01-07",
-      "title": "Breakfast",
-      "amount": 30,
-      "category": "Food",
-      "date": "2026-01-07",
-      "frequency": "Daily",
-      "isGenerated": true,
-      "recurringRuleId": "1768295814391-radme"
     }
   ]
 }
