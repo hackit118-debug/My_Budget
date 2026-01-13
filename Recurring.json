@@ -8,8 +8,10 @@
       "startDate": "2026-01-01",
       "endDate": "2026-01-31",
       "time": "08:00",
-      "isActive": false,
-      "skippedDates": [],
+      "isActive": true,
+      "skippedDates": [
+        "2026-01-14"
+      ],
       "id": "1768295814391-radme",
       "lastGenerated": "2026-01-13"
     }
