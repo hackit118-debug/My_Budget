@@ -137,6 +137,136 @@
       "category": "Other",
       "frequency": "One-time",
       "date": "2026-01-13"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-01",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-01",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-02",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-02",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-03",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-03",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-04",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-04",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-05",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-05",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-06",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-06",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-07",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-07",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-08",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-08",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-09",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-09",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-10",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-10",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-11",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-11",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-12",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-12",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
+    },
+    {
+      "id": "auto-1768305684487-jyyl1-2026-01-13",
+      "title": "Breakfast",
+      "amount": 30,
+      "category": "Food",
+      "date": "2026-01-13",
+      "frequency": "Daily",
+      "isGenerated": true,
+      "recurringRuleId": "1768305684487-jyyl1"
     }
   ]
 }
